@@ -1,0 +1,32 @@
+TablePage.css
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.container {
+  text-align: center;
+}
+
+.formContainer {
+  margin-top: auto;
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.warning {
+  color: red;
+  margin-top: 10px;
+}
+
+.ms-Button {
+    margin-top: 10px;
+    margin-bottom: 10px; 
+  }
